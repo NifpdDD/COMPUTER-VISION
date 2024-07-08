@@ -1,0 +1,11 @@
+orig_image,mask_image
+test_images\OFT_control_01$000152&03_@000064.bmp,test_masks\OFT_control_01$000152&03_@000064.bmp
+test_images\OFT_control_01$000152&03_@004271.bmp,test_masks\OFT_control_01$000152&03_@004271.bmp
+test_images\OFT_control_02$000146&03_@000152.bmp,test_masks\OFT_control_02$000146&03_@000152.bmp
+test_images\OFT_control_02$000146&03_@004474.bmp,test_masks\OFT_control_02$000146&03_@004474.bmp
+test_images\OFT_control_03$000141&03_@000030.bmp,test_masks\OFT_control_03$000141&03_@000030.bmp
+test_images\OFT_control_03$000141&03_@004498.bmp,test_masks\OFT_control_03$000141&03_@004498.bmp
+test_images\OFT_control_04$000176&03_@000060.bmp,test_masks\OFT_control_04$000176&03_@000060.bmp
+test_images\OFT_control_04$000176&03_@004368.bmp,test_masks\OFT_control_04$000176&03_@004368.bmp
+test_images\OFT_control_05$000124&03_@000055.bmp,test_masks\OFT_control_05$000124&03_@000055.bmp
+test_images\OFT_control_05$000124&03_@003979.bmp,test_masks\OFT_control_05$000124&03_@003979.bmp
